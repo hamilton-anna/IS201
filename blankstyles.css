@@ -1,0 +1,107 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin-top: 10px; /* Adjust margin as needed */
+    margin-left: 5%;
+    margin-right: 6%;
+
+}
+    h1 {
+    text-align: center;
+    color: rgb(13, 80, 128);
+}
+    h2 {
+    color: rgb(13, 80, 128);
+}
+    h3 {
+    color: rgb(13, 80, 128); 
+}
+    .skills {
+    margin-left: 20px; 
+}
+    .job {
+    margin-left: 20px; 
+}
+    .education {
+    margin-left: 20px; 
+}
+/* Styles for the navigation bar */
+    nav {
+        font-family:' MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(16, 95, 102);
+    color: white;
+    margin-left: auto;
+}
+    nav ul {
+    list-style-type: none;
+    
+    padding: 10px;
+    text-align: center;
+    height: ;
+}
+    nav li {
+    display: inline;
+}
+    nav a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+    nav a:hover {
+    background-color: #4e9a96;
+}
+/* styles for teh hawaii from scratch page */
+
+.tableauPlaceholder{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto; 
+}
+h1{
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 300;
+    text-align: center;
+    text-decoration-color: darkgreen;
+    color: cadetblue;
+}
+.himap{
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-right:auto;
+    margin-left: auto;}
+.photogroup{
+    position: relative;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+.city{
+    height: 100px;
+    width: 150px;
+}
+.dance{
+    height: 100px;
+    width: 150px;
+}
+.volcano{
+    height:100px;
+    width: 150px;
+}
+.flowers{
+    height:100px;
+    width: 150px;
+}
+.luau{
+    height: 100px;
+    width: 150px;
+}
+.view{
+    height: 100px;
+    width: 150px;
+}

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "startbootstrap-clean-blog-gh-pages",
+			"path": "."
+		},
+		{
+			"name": "Fix-me!",
+			"path": "../Fix-me!"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-clean-blog-gh-pages"
+	}
+}
